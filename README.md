@@ -1,4 +1,6 @@
-## Hi there 👋
+## hello
+
+This used to be for only schoolwork, but I hope to do something moreo in the foreseeable future.
 
 <!--
 **BagelsAreYum/BagelsAreYum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
